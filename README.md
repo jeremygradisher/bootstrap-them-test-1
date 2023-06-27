@@ -1,6 +1,9 @@
 # Bootstrap Theme Test 1
 
-## Just a quick mock-up to figure out how to add a theme
+## Mock-up
+
+Just a quick mock-up to figure out how to add a theme to a Rails app.
+This is using Bootstrap 5.2.3.
 
 
 
